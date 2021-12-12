@@ -3,19 +3,19 @@ Midterm projects for the subject of software engineering.
 
 
 
-## Web Dev. Team
+### Web Dev. Team
 
 * Ramos Leo
 * Bermeo Mike
 * Macancela Carlos
 * Brito Juan
 
-## Mobile Dev. Team
+### Mobile Dev. Team
 
 * Román Stadyn
 * Argenis
 
-## AI Team
+### AI Team
 * Román Krishna
 * Lomas Mateo
 * Pijal Washington
