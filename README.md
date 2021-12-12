@@ -24,20 +24,13 @@ Don't forget to give the project a star!
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ## Troubleshooting
 Bugs can be reported in the issue tracker on our GitHub repo: https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects/issues
-
-
-
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the GNU General Public License v3. See `LICENSE` for more information.
-
-
 
 ## Authors
 
