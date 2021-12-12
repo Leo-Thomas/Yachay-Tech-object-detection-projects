@@ -35,7 +35,7 @@ Bugs can be reported in the issue tracker on our GitHub repo: https://github.com
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU General Public License. See `LICENSE` for more information.
+Distributed under the GNU General Public License v3. See `LICENSE` for more information.
 
 
 
