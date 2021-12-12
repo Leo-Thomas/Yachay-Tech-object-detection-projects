@@ -29,7 +29,7 @@ This project lays out an application for Android based on artificial intelligenc
 1. Configure your phone to connect to Android Studio and build the app. See https://developer.android.com/studio/run/device for details.
 2. Connect yout phone to your computer (with an USB cable or through Wi-Fi depending on how you configured your phone).
 3. If everything was done correctly, you will see your phone's model name on the panel near the upper right corner.
-     ![Model Name](/assets/model_name.png)
+     ![Model Name](./assets/model_name.png)
 4. You can then install and run the app by selecting Run -> Run 'app', or by clicking the green play button right to your phone's model name. Don't disconnect your phone until the app is loaded.
 ## Install using the APK
 1. Download the latest MDT.Rose.Counter.apk from the Releases page.
