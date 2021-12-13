@@ -2,13 +2,14 @@
 
 
 <!-- PROJECT LOGO -->
+<h1 align="center">AI rose counting system web application</h1>
 <br />
 <div align="center">
   <a href="https://github.com/Leo-Thomas/AI-based-red-rose-counting-webapp">
     <img src="Images/logo.png" alt="Logo" width="80" height="100">
   </a>
 
-<h3 align="center">AI rose counting system web application</h3>
+
 
   <p align="center">
     Web application that recognizes and counts the number of red roses using an artificial intelligence model.
