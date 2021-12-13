@@ -13,7 +13,7 @@
   <p align="center">
     Web application that recognizes and counts the number of red roses using an artificial intelligence model.
     <br />
-    <a href="https://github.com/Leo-Thomas/AI-Rose-counting-system-web-app"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -98,7 +98,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
   [Download Python](https://www.python.org/downloads/)
   
   
-#### Windows ( Windows 10, 11)
+#### Windows
 
 * Latest pip
   ```sh
@@ -129,7 +129,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
   pip install pillow
   ```
   
-#### Linux (Ubuntu 20.04)
+#### Linux
 
 * Upgrade Repositories
   ```sh
@@ -171,7 +171,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
 #### Windows
 
 
-1. Clone the general repository
+1. Clone the main repository
    ```sh
    git clone https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects.git
    ```
@@ -190,7 +190,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
 
 #### Linux
 
-1. Clone the general repository
+1. Clone the main repository
   ```sh
   sudo git clone https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects.git
   ```
