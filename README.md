@@ -45,7 +45,7 @@ Distributed under the GNU General Public License v3. See `LICENSE` for more info
 
 * Román Stadyn
 * Andrade Argenis
-* Chipantasig Javier
+* Chipantasig Jefferson
 * Astudillo Jaime
 
 ### Artificial Intelligence Team
