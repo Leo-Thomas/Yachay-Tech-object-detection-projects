@@ -13,7 +13,7 @@
   <p align="center">
     Web application that recognizes and counts the number of red roses using an artificial intelligence model.
     <br />
-    <a href="https://github.com/Leo-Thomas/AI-Rose-counting-system-web-app"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -29,6 +29,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#os-suported">Os Suported</a></li>
       </ul>
     </li>
     <li>
@@ -84,6 +85,11 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
 * [TensorFlow](https://www.tensorflow.org/)
 * [ReportLab](https://www.reportlab.com/)
 
+### OS Suported
+
+* Microsoft Windows: 10, 11
+* Lunix: Ubuntu 20.04
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Important considerations
@@ -98,7 +104,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
   [Download Python](https://www.python.org/downloads/)
   
   
-#### Windows ( Windows 10, 11)
+#### Windows
 
 * Latest pip
   ```sh
@@ -129,7 +135,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
   pip install pillow
   ```
   
-#### Linux (Ubuntu 20.04)
+#### Linux
 
 * Upgrade Repositories
   ```sh
@@ -171,7 +177,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
 #### Windows
 
 
-1. Clone the general repository
+1. Clone the main repository
    ```sh
    git clone https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects.git
    ```
@@ -190,18 +196,18 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
 
 #### Linux
 
-1. Clone the general repository
-  ```sh
-  sudo git clone https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects.git
-  ```
+1. Clone the main repository
+    ```sh
+    sudo git clone https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects.git
+    ```
 2. Inside "Web Dev. Team" directory, open a terminal as administrator and initialize the server
-  ```sh
-  sudo python manage.py runserver
-  ```
+    ```sh
+    sudo python manage.py runserver
+    ```
 3. Open the generated link in the browser
-  ```sh
-  Starting development server at **http://127.0.0.1:8000/**
-  ```
+    ```sh
+    Starting development server at **http://127.0.0.1:8000/**
+    ```
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
