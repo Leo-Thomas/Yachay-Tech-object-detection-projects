@@ -14,7 +14,7 @@ This project lays out an application for Android based on artificial intelligenc
 |![Alt text](./assets/App%20(5).jpg)|![Alt text](./assets/App%20(6).jpg)|![Alt text](./assets/App%20(7).jpg)|![Alt text](./assets/App%20(8).jpg)|
 
 ## Importing the Project on Android Studio
-1. Clone or download the **main repository** (Check the main repository's [README](https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects/blob/main/README.md) for instructions)
+1. Clone or download the **main repository** (Check the main repository [README](https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects/blob/main/README.md) for instructions)
 2. Open Android Studio
 3. Click on File -> New -> Import Project
      - **First Time using Android Studio:** Click Open an existing Android Studio project
