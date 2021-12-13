@@ -48,7 +48,7 @@ Make sure the app is already installed in your phone.
 ## Authors of this project
 - Stadyn Román - stadyn.roman@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/stadyn/)
 - Argenis Andrade - argenis.andrade@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/argenisraz/) 
-- Javier Chipantasig - javier.chipantasig@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/javec/)
+- Jefferson Chipantasig - jefferson.chipantasi@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/javec/)
 - Jaime Astudillo - jaime.astudillo@yachaytech.edu.ec - [LinkedIn](.)
 
 ## Link to the repository containing only this project
