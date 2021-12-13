@@ -202,7 +202,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
     ```
 2. Inside "Web-Dev-Team" directory (`Yachay-Tech-object-detection-projects\Web-Dev-Team`), open a terminal as administrator and initialize the server
     ```sh
-    sudo python manage.py runserver
+    sudo python3 manage.py runserver
     ```
 3. Open the generated link in the browser
     ```sh
