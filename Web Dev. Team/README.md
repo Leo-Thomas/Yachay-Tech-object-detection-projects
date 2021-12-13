@@ -181,7 +181,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
    ```sh
    git clone https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects.git
    ```
-2. Inside "Web Dev. Team" directory, open a terminal and initialize the server
+2. Inside "Web Dev. Team" directory, open a terminal as administrator and initialize the server
    ```sh
    python manage.py runserver
    ```
