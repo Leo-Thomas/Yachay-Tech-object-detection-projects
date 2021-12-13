@@ -116,7 +116,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
   ```  
 * Django
   ```sh
-  python -m pip install Django
+  python pip install Django
   ```
 * TensorFlow
   ```sh
