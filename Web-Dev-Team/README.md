@@ -2,7 +2,7 @@
 
 
 <!-- PROJECT LOGO -->
-<h1 align="center">AI Rose Counting System Web Application</h1>
+<h1 align="center">AI Red Rose Counting System Web Application</h1>
 <br />
 <div align="center">
   <a href="https://github.com/Leo-Thomas/AI-based-red-rose-counting-webapp">
