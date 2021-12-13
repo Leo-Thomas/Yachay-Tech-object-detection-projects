@@ -1,0 +1,37 @@
+<annotation>
+	<folder>ari</folder>
+	<filename>150.jpg</filename>
+	<path>/ari/150.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>472</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>RedRose</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>197</ymin>
+			<xmax>473</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>RedRose</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>232</ymin>
+			<xmax>648</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>
