@@ -4,10 +4,10 @@ import tensorflow as tf
 import argparse
 from PIL import Image
 
-model_path = 'model900_2colab.tflite'
+model_path = 'model.tflite'
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--image', help='Path to image file.', type=str, default='red_rose.jpg')
+parser.add_argument('--image', help='Path to image file.', type=str, default='rose5.jpg')
 parser.add_argument('--threshold', help='Detection threshold.', type=float, default=0.5)
 args = parser.parse_args()
 
