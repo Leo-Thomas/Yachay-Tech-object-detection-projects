@@ -49,7 +49,7 @@ Make sure the app is already installed in your phone.
 - Stadyn Román - stadyn.roman@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/stadyn/)
 - Argenis Andrade - argenis.andrade@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/argenisraz/) 
 - Jefferson Chipantasig - jefferson.chipantasi@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/javec/)
-- Jaime Astudillo - jaime.astudillo@yachaytech.edu.ec - [LinkedIn](.)
+- Jaime Astudillo - jaime.astudillo@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/jaime-astudillo-664754228/)
 
 ## Link to the repository containing only this project
 
