@@ -14,29 +14,30 @@ This project lays out an application for Android based on artificial intelligenc
 |![Alt text](./assets/App%20(5).jpg)|![Alt text](./assets/App%20(6).jpg)|![Alt text](./assets/App%20(7).jpg)|![Alt text](./assets/App%20(8).jpg)|
 
 ## Importing the Project on Android Studio
-1. Clone or download this repository:
-
-     ```
-     git clone https://github.com/StadynR/object-detection-soft-eng
-     ```
+1. Clone or download the **main repository** (Check the main repository's [README](https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects/blob/main/README.md))
 2. Open Android Studio
 3. Click on File -> New -> Import Project
      - **First Time using Android Studio:** Click Open an existing Android Studio project
-4. Search for the directory `object-detection-soft-eng` and select it.
+4. Search for the directory `Yachay-Tech-object-detection-projects/mobile-dev-team` and select it.
 5. If you get a Gradle Sync popup, click OK and wait for it to sync.
+
 ## Installation
+
 ### Install using Android Studio
 1. Configure your phone to connect to Android Studio and build the app. See https://developer.android.com/studio/run/device for details.
 2. Connect yout phone to your computer (with an USB cable or through Wi-Fi depending on how you configured your phone).
 3. If everything was done correctly, you will see your phone's model name on the panel near the upper right corner.
      ![Model Name](./assets/model_name.png)
 4. You can then install and run the app by selecting Run -> Run 'app', or by clicking the green play button right to your phone's model name. Don't disconnect your phone until the app is loaded.
+
 ### Install using the APK
-1. Download the latest MDT.Rose.Counter.apk from the Releases page.
+1. Search the file MDT.Rose.Counter.apk in `Yachay-Tech-object-detection-projects/mobile-dev-team/apk`.
 2. Copy the apk to your phone.
-3. Search for the file and touch it to install it. If your phone asks for confirmation or permission to install the apk, accept.
+3. In your phone, search for the apk and install it. If your phone asks for confirmation or permission to install the apk, accept.
+
 ## How to change the AI model
-In case you want to test the app using your own tflite model you just need to replace the model.tflite file in \object-detection-soft-eng-main\app\src\main\assets 
+In case you want to test the app using your own TFLite model you just need to replace the `model.tflite` file in `Yachay-Tech-object-detection-projects/mobile-dev-team/app/src/main/assets`. The model can be generated following [this](https://www.google.com) instructions.
+
 ## Usage
 Make sure the app is already installed in your phone.
 1. Find the application on your cell phone and open it.
@@ -48,5 +49,3 @@ Make sure the app is already installed in your phone.
 - Argenis Andrade
 - Javier Chipantasig
 - Jaime Astudillo
-## License
-This project is licensed under the MIT License. See the LICENSE file for the full license information.
