@@ -88,7 +88,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
 ### OS Suported
 
 * Microsoft Windows: 10, 11
-* Lunix: Ubuntu 20.04
+* Linux: Ubuntu 20.04
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
