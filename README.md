@@ -44,7 +44,7 @@ Distributed under the GNU General Public License v3. See `LICENSE` for more info
 ### Mobile Development Team
 
 * Román Stadyn
-* Andrade Aregnis
+* Andrade Argenis
 * Chipantasig Javier
 * Astudillo Jaime
 
