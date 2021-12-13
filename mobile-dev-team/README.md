@@ -1,7 +1,7 @@
 ## Overview
 This project lays out an application for Android based on artificial intelligence capable of recognizing the number of roses in an image given by the user, from either the phone's camera or gallery.
 ## Requirements
-- Android Studio version Artic Fox 2020.3.1 Patch 3 or greater (for cloning and editing the app)
+- [Android Studio](https://developer.android.com/studio) version Artic Fox 2020.3.1 Patch 3 or greater (for cloning and editing the app)
 - Android 6.0 Marshmallow or greater (for installing and testing in an Android phone)
 ## Screenshots
      
@@ -46,10 +46,14 @@ Make sure the app is already installed in your phone.
 4. You can then save the image using the **Save Result** button or start a new inference by repeating step 2. The photos saved from the app are stored in the Pictures/Inferences folder from your phone's internal storage.
 
 ## Authors of this project
-- Stadyn Román
-- Argenis Andrade
-- Javier Chipantasig
-- Jaime Astudillo
+- Stadyn Román - stadyn.roman@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/stadyn/)
+- Argenis Andrade - argenis.andrade@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/argenisraz/) 
+- Javier Chipantasig - javier.chipantasig@yachaytech.edu.ec - [LinkedIn](https://www.linkedin.com/in/javec/)
+- Jaime Astudillo - jaime.astudillo@yachaytech.edu.ec - [LinkedIn](.)
+
+## Link to the repository containing only this project
+
+https://github.com/StadynR/object-detection-soft-eng
 
 ## External Libraries and Repositories Used
 - [ImagePicker](https://github.com/Dhaval2404/ImagePicker)
