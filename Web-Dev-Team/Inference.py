@@ -122,7 +122,7 @@ def run_odt_and_draw_results(image_path, interpreter, threshold=0.5):
     original_uint8 = original_image_np.astype(np.uint8)
     return original_uint8
 
-DETECTION_THRESHOLD = 0.6
+DETECTION_THRESHOLD = 0.5
 #InputImagePath = sys.argv[1] #'/home/juanchx/Documentos/UNIVERSIDAD/InputRoses.png'
 #nameofInput=InputImagePath.split("/")[-1]
 #InputImagePath2 = '/home/juanchx/Documentos/UNIVERSIDAD/web/'+nameofInput+'AL.png'  #directory where the system is
