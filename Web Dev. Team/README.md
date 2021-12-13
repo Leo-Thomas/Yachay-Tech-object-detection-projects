@@ -34,13 +34,25 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Prerequisites</a>
+                    <ul>
+        <li><a href="#windows">Windows</a></li>
+        <li><a href="#linux">Linux</a></li>
+      </ul></li>
+        <li><a href="#installation">Installation</a>
+            <ul>
+        <li><a href="#windows">Windows</a></li>
+        <li><a href="#linux">Linux</a></li>
+      </ul>
+        </li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#usage">Usage</a>
+    <ul>
+        <li><a href="#counting-by-uploading-a-file">Uploading a file</a></li>
+        <li><a href="#counting-using-the-camera">Using the camera</a></li>
+      </ul>
+    </li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -159,11 +171,11 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
 #### Windows
 
 
-1. Clone the repo
+1. Clone the general repository
    ```sh
-   git clone https://github.com/Leo-Thomas/AI-based-red-rose-counting-webapp.git
+   git clone https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects.git
    ```
-2. Inside "AI-based-red-rose-counting-webapp" directory, open a terminal and initialize the server
+2. Inside "Web Dev. Team" directory, open a terminal and initialize the server
    ```sh
    python manage.py runserver
    ```
@@ -178,11 +190,11 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
 
 #### Linux
 
-1. Clone the repo
+1. Clone the general repository
   ```sh
-  sudo git clone https://github.com/Leo-Thomas/AI-based-red-rose-counting-webapp.git
+  sudo git clone https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects.git
   ```
-2. Inside "AI-based-red-rose-counting-webapp" directory, open a terminal as administrator and initialize the server
+2. Inside "Web Dev. Team" directory, open a terminal as administrator and initialize the server
   ```sh
   sudo python manage.py runserver
   ```
@@ -288,34 +300,6 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
-3. Commit your Changes (`git commit -m 'Add some NewFeature'`)
-4. Push to the Branch (`git push origin feature/NewFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -330,11 +314,11 @@ Carlos Macancela - [LinkedIn](https://www.linkedin.com/in/leo-thomas-ramos/) - c
 <br>
 <br>
 
-Project Link: [https://github.com/Leo-Thomas/AI-Rose-counting-system-web-app](https://github.com/Leo-Thomas/AI-based-red-rose-counting-webapp)
+Project Link (main project): [https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects.git](https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects.git)
+
+Project Link (web app project only): [https://github.com/Leo-Thomas/AI-based-red-rose-counting-webapp.git](https://github.com/Leo-Thomas/AI-based-red-rose-counting-webapp.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 
 <!-- ACKNOWLEDGMENTS -->
