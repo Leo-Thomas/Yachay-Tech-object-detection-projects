@@ -102,8 +102,9 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
 
 * Python (3.8.8 recomended)
   
-  [Download Python](https://www.python.org/downloads/)
-  
+  [Download Python](https://www.python.org/downlyyyyykoads/)
+  Note: Clic the option "Add Python to PATH"
+  <img src="Images/path.png" alt="Logo">
   
 #### Windows
 
@@ -117,7 +118,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
   ```  
 * Django
   ```sh
-  python pip install django
+  pip install django
   ```
 * TensorFlow
   ```sh
