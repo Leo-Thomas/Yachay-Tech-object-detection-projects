@@ -106,7 +106,9 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
 * Notes: 
   1. Clic the option "Add Python to PATH"
   <img src="Images/path.PNG" alt="Logo">
-  2. Sometimes, there is an error about Maximum Path Length Limitation in the installation of TensorFlow. Follow the next <a href='https://docs.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=powershell#enable-long-paths-in-windows-10-version-1607-and-later'>link</a> for the solution.
+  
+  2. Sometimes, there is an error about "Maximum Path Length Limitation" on Windows in the installation of TensorFlow. Follow the next <a href='https://docs.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=powershell#enable-long-paths-in-windows-10-version-1607-and-later'>link</a> for the solution.
+  3. 
 #### Windows
 
 * Latest pip
