@@ -104,7 +104,7 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
   
   [Download Python](https://www.python.org/downlyyyyykoads/)
   Note: Clic the option "Add Python to PATH"
-  <img src="Images/path.png" alt="Logo">
+  <img src="Images/path.PNG" alt="Logo">
   
 #### Windows
 
