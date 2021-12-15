@@ -36,7 +36,7 @@ This project lays out an application for Android based on artificial intelligenc
 3. In your phone, search for the apk and install it. If your phone asks for confirmation or permission to install the apk, accept.
 
 ## How to change the AI model
-In case you want to test the app using your own TFLite model you just need to replace the `model.tflite` file in `Yachay-Tech-object-detection-projects/mobile-dev-team/app/src/main/assets`. The model can be generated and trained following [this](https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects/tree/main/AI-Team#training) instructions.
+In case you want to test the app using your own TFLite model you just need to replace the `model.tflite` file in `Yachay-Tech-object-detection-projects/mobile-dev-team/app/src/main/assets`. The model can be generated and trained following [this](https://github.com/Leo-Thomas/Yachay-Tech-object-detection-projects/tree/main/AI-Team#training) instructions. If you need to change the detection threshold for the model, do it in line 182 of `app/java/org.tensorflow.codelabs.objectdetection/MainActivity.kt` in Android Studio, inside `.setScoreThreshold()`. You can then compile/run the app again in Android Studio, or generate a new apk by clicking Build -> Build Bundle(s)/APK(s) -> Build APK(s). The apk will be stored in `Yachay-Tech-object-detection-projects/mobile-dev-team/app/build/outputs/apk/debug/`, as `app-debug.apk`.
 
 ## Usage
 Make sure the app is already installed in your phone.
