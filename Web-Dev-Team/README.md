@@ -93,8 +93,6 @@ This web application was developed by Leo, Mike, Carlos and Juan, students at Ya
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Important considerations
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
